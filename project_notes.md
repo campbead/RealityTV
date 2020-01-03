@@ -53,6 +53,7 @@ And it worked.  Therefore `.mkv` are okay to use with this tool.  I need to conf
 Ok so I tested that and that works as well.
 
 
-## Current to do list:
+## Current to-do list:
 - finish the filelist.txt
+- figure out to run scenedetect natively OR if you have to call it.  (does this affect performance?)
 - write a script to download the file, clip it, run the analsysis, and deleted the data files.
