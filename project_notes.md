@@ -57,3 +57,6 @@ Ok so I tested that and that works as well.
 - finish the filelist.txt
 - figure out to run scenedetect natively OR if you have to call it.  (does this affect performance?)
 - write a script to download the file, clip it, run the analsysis, and deleted the data files.
+
+## Update 8 Jan 2020
+I was unable to call the os command from python I think there are some work-arounds but it might be best to simply write a shell script that download and processes the data.  
