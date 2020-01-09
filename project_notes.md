@@ -36,7 +36,7 @@ So first thing I'll need to do is get the data.  I'm going to assume the clips a
 
 I found a useful command for getting data I need
 
-` find "$PWD" -name *.mp4`
+`find "$PWD" -name *.mp4`
 
 I'm saving this info in `filelist.txt`
 
@@ -59,4 +59,6 @@ Ok so I tested that and that works as well.
 - write a script to download the file, clip it, run the analsysis, and deleted the data files.
 
 ## Update 8 Jan 2020
-I was unable to call the os command from python I think there are some work-arounds but it might be best to simply write a shell script that download and processes the data.  
+I was unable to call the os command from python I think there are some work-arounds but it might be best to simply write a shell script that download and processes the data. 
+
+ 
