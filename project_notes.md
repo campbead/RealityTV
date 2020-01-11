@@ -61,4 +61,7 @@ Ok so I tested that and that works as well.
 ## Update 8 Jan 2020
 I was unable to call the os command from python I think there are some work-arounds but it might be best to simply write a shell script that download and processes the data. 
 
+
+## 11 Jan 2020
+Got the script working for a single file.  Now to functionize and iterate.  Done for the night.
  
