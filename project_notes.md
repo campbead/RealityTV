@@ -65,3 +65,7 @@ I was unable to call the os command from python I think there are some work-arou
 ## 11 Jan 2020
 Got the script working for a single file.  Now to functionize and iterate.  Done for the night.
  
+## 16 Jan 2020
+I've created an external script based on the notebook.  It need the following:
+- set the -T in ssh
+- set all the command line inputs
