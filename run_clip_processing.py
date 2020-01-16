@@ -6,7 +6,7 @@ import os
 
 # set variables
 
-working_directory = '/Users/adamc/Projects/RealityTV/data'
+working_directory = '/home/adam/Projects/Reality_TV/data'
 file_list = 'singlefile.txt'
 server_location_file = 'serverlocation.txt'
 clip_time = 300
