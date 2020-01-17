@@ -27,7 +27,7 @@ working_directory = args["work_dir"]
 file_list = args["file_list"]
 clip_time = args["clip_time"]
 server_location_file = args["server"]
-
+clip_time = int(float(clip_time))
 
 def process_video(video_file, working_directory, clip_time, server_name):
     file_name = video_file
