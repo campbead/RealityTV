@@ -3,6 +3,7 @@
 from moviepy.video.io.ffmpeg_tools import ffmpeg_extract_subclip
 from moviepy.editor import VideoFileClip
 import os
+import argparse
 
 # set variables
 
@@ -10,6 +11,23 @@ working_directory = '/home/adam/Projects/Reality_TV/data'
 file_list = 'singlefile.txt'
 server_location_file = 'serverlocation.txt'
 clip_time = 300
+
+ap = argparse.ArgumentParser()
+ap.add_argument("--work_dir", required=True,
+    help="working directory")
+ap.add_argument("--file_list", required=True,
+    help="text file with path locations for files")
+ap.add_argument("--clip_time", required=True,
+    help="time in seconds of clip")
+ap.add_argument("--server", required=True,
+    help="server location file")
+
+args = vars(ap.parse_args())
+working_directory = args["work_dir"]
+file_list = args["file_list"]
+clip_time = args["clip_time"]
+server_location_file = args["server"]
+
 
 def process_video(video_file, working_directory, clip_time, server_name):
     file_name = video_file
