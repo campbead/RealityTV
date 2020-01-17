@@ -34,7 +34,7 @@ def process_video(video_file, working_directory, clip_time, server_name):
     single_quote = "'"
     double_quote = '"'
 
-    command = "scp " + server_name + ":" + double_quote +single_quote + file_name + single_quote + double_quote + " " + working_directory 
+    command = "scp -T " + server_name + ":" + double_quote +single_quote + file_name + single_quote + double_quote + " " + working_directory 
     os.system(command)
 
     # do the clip
