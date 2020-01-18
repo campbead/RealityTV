@@ -69,3 +69,7 @@ Got the script working for a single file.  Now to functionize and iterate.  Done
 I've created an external script based on the notebook.  It need the following:
 - set the -T in ssh
 - set all the command line inputs
+
+## 18 Jan 2020
+
+I've setup my other PC to run the program and have downloaded the first batch.  Now I have some manual processing and also to acquire more data sources.
