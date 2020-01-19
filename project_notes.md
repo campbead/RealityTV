@@ -76,4 +76,5 @@ I've setup my other PC to run the program and have downloaded the first batch.  
 
 # 19 Jan 2020
 Setup the datasheet for coding the data and coded one episode.  It takes a while..  But that's okay.
-
+# 20 Jan 2020
+Did another episode.  This takes a while..
