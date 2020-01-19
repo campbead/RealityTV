@@ -73,3 +73,7 @@ I've created an external script based on the notebook.  It need the following:
 ## 18 Jan 2020
 
 I've setup my other PC to run the program and have downloaded the first batch.  Now I have some manual processing and also to acquire more data sources.
+
+# 19 Jan 2020
+Setup the datasheet for coding the data and coded one episode.  It takes a while..  But that's okay.
+
