@@ -78,3 +78,6 @@ I've setup my other PC to run the program and have downloaded the first batch.  
 Setup the datasheet for coding the data and coded one episode.  It takes a while..  But that's okay.
 # 20 Jan 2020
 Did another episode.  This takes a while..
+
+#21 Jan 2020
+Encoded 2 more episodes.
