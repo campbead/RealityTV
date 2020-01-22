@@ -81,3 +81,6 @@ Did another episode.  This takes a while..
 
 #21 Jan 2020
 Encoded 2 more episodes.
+
+#22 Jan 2020
+Finished season 1 of Making It.  I didn't encode the finale because it had a different format than the rest.
