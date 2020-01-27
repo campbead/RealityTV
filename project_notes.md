@@ -93,3 +93,6 @@ Encoded another episode
 
 #26 Jan 2020
 Encoded another episode
+
+#27 Jan 2020
+Finished Encoding SEason 1 and 2 of making it
