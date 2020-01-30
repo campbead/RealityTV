@@ -99,3 +99,8 @@ Finished Encoding SEason 1 and 2 of making it
 
 #29 Jan 2020
 Playing around with the data a bit and can already see a few things.  The second and third consentent are mostly likely to be the winner/loser.  And they tend to focus on the eventual winner/loser slightly longer by about .3 seconds.
+
+#30 Jan 2020
+I like to explore a few things here.  
+- how often is the longest time contestent the winner or loser?
+- 
